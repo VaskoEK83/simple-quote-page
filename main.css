@@ -1,0 +1,17 @@
+body {
+  background: url('assets/freedom.jpg') no-repeat center center fixed;
+  background-size: cover;
+  margin: 100px;
+}
+
+h1, p {
+  text-align: center;
+}
+
+h1 {
+  font-weight: 50;
+}
+
+p  {
+  margin-top: 70px;
+}

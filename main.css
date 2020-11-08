@@ -4,10 +4,6 @@ body {
   margin: 100px;
 }
 
-h1, p {
-  text-align: center;
-}
-
 h1 {
   font-weight: 50;
   letter-spacing: 0.15em;
@@ -15,4 +11,11 @@ h1 {
 
 p  {
   margin-top: 70px;
+}
+
+#text-box {
+  width: 800px;
+  max-width: calc(100vw - 10px);
+  margin: auto;
+  text-align: center;
 }
